@@ -11,3 +11,6 @@ def find_longest():
                 longest_word=line
 
     return longest_word
+
+
+print(f'Найдовше слово зі списку - {find_longest()}')
